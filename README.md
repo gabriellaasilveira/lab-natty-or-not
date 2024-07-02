@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Telejornal Inteligente: Notícias Geradas por IA 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+O projeto visa demonstrar como as IAs generativas estão revolucionando o mundo. Criei um vídeo de telejornal simulado, totalmente gerado por IA, para ilustrar como essa tecnologia pode transformar a produção de notícias.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- [ChatGPT](https://chat.openai.com/) Criação do roteiro do projeto
+- [HeyGen](https://app.heygen.com/) IA utilizada para gerar o vídeo
+- [Capcut](https://www.capcut.com/pt-br/) Edição e ajustes do vídeo final
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Utilizei o ChatGPT para me dar alguns insights para o projeto e logo gerei o script de fala da personagem por ele. Em seguida, usei o HeyGen para fazer a criação do vídeo de forma automática e rápida, mas o resultado contava com alguns elementos desalinhados, portanto, utilizei o CapCut para corrigir fazendo alguns ajustes de edição no vídeo para que o resultado final ficasse agradável para mim. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O resultado foi satisfatório, desenvolvi um vídeo simulando uma notícia sobre IAs em um telejornal. Houve uma dificuldade na metade do processo de criação com o resultado gerado pela IA que não era a forma como eu esperava, mas consegui ajustá-lo através do CapCut para que no final ficasse um resultado totalmente satisfatório para mim. 
 
-### Exemplos e Insigths
+## 👩🏻‍💻 Expert
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/gabrielladiassilveira2224)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-s-17599823b/)
+[![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriellaasilveira)
+<br />
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
