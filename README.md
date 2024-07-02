@@ -18,7 +18,7 @@ Utilizei o ChatGPT para me dar alguns insights para o projeto e logo gerei o scr
 
 O resultado foi satisfatório, desenvolvi um vídeo simulando uma notícia sobre IAs em um telejornal. Houve uma dificuldade na metade do processo de criação com o resultado gerado pela IA que não era a forma como eu esperava, mas consegui ajustá-lo através do CapCut para que no final ficasse um resultado totalmente satisfatório para mim. 
 
--Projeto localizado em "Telejornal gerado por IA-desafio dio.mp4"
+- Projeto localizado em "Telejornal gerado por IA-desafio dio.mp4"
 
 ## 👩🏻‍💻 Expert
 
